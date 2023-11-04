@@ -11,7 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-You can find all my publications [here]({author.googlescholar})
+You can find all my publications [here](https://scholar.google.com/citations?hl=en&user=Wt9FiQEAAAAJ&view_op=list_works&sortby=pubdate)
+
+#### Selected List of Representative Papers
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
