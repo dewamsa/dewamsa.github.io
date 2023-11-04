@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Eco-friendly weeding through precise detection of growing points via efficient multi-branch convolutional neural networks"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: /publication/2023-06-01-eco-friendly-weeding
+excerpt: 'We are working on developing a method to detect the growing points of the weeds for weeding efficiency.'
+date: 2023-06-01
+venue: 'Journal of Computers and Electronics in Agriculture'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168169923002181'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0168169923002181)
+[Codes is available here](https://github.com/dewamsa/WGPdetection)
