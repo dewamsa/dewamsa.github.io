@@ -9,4 +9,6 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S2405959521001375'
 citation: 
 ---
 
+We examine deep learning method for detecting fake news in various datasets.
+
 [Paper](https://www.sciencedirect.com/science/article/pii/S2405959521001375)
