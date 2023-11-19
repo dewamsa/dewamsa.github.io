@@ -2,15 +2,17 @@
 title: "Detection of fake news using deep learning CNN–RNN based methods"
 collection: publications
 permalink: /publication/2022-09-01-fake-news-detection
-excerpt: "his study uses a deep learning method with several architectures such as CNN, Bidirectional LSTM, and ResNet, combined with pre-trained word embedding, trained using four different datasets."
+excerpt: "This study uses a deep learning method with several architectures such as CNN, Bidirectional LSTM, and ResNet, combined with pre-trained word embedding, trained using four different datasets."
 date: 2022-09-01
 venue: 'ICT Express vol. 8, no. 3'
 paperurl: 
 citation: 
 ---
 
-> ## Authors
-> [I Kadek Sastrawan](), [I Putu Agung Bayupati](https://udayananetworking.unud.ac.id/lecturer/credential/3160--i-putu-agung-bayupati), [Dewa Made Sri Arsa](https://dewamsa.github.io)
+> ### Authors
+> [I Kadek Sastrawan<sup>1</sup>](), [I Putu Agung Bayupati<sup>1</sup>](https://udayananetworking.unud.ac.id/lecturer/credential/3160--i-putu-agung-bayupati), [Dewa Made Sri Arsa<sup>1</sup>](https://dewamsa.github.io)
+> <sup>1</sup>Department of Information Technology, Universitas Udayana, Badung, Indonesia
+> <sup>*</sup>Corresponding author: bayupati@unud.ac.id
 
 > ## Abstract
 > Fake news is inaccurate information that is intentionally disseminated for a specific purpose. If allowed to spread, fake news can harm the political and social spheres, so several studies are conducted to detect fake news. This study uses a deep learning method with several architectures such as CNN, Bidirectional LSTM, and ResNet, combined with pre-trained word embedding, trained using four different datasets. Each data goes through a data augmentation process using the back-translation method to reduce data imbalances between classes. The results showed that the Bidirectional LSTM architecture outperformed CNN and ResNet on all tested datasets.
