@@ -9,9 +9,11 @@ paperurl:
 citation: 
 ---
 
-> ### Authors
+> ## Authors
 > [I Kadek Sastrawan<sup>1</sup>](), [I Putu Agung Bayupati<sup>1</sup>](https://udayananetworking.unud.ac.id/lecturer/credential/3160--i-putu-agung-bayupati), [Dewa Made Sri Arsa<sup>1</sup>](https://dewamsa.github.io)
+>
 > <sup>1</sup>Department of Information Technology, Universitas Udayana, Badung, Indonesia
+>
 > <sup>*</sup>Corresponding author: bayupati@unud.ac.id
 
 > ## Abstract
