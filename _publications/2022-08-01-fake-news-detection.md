@@ -2,7 +2,7 @@
 title: "Detection of fake news using deep learning CNN–RNN based methods"
 collection: publications
 permalink: /publication/2022-09-01-fake-news-detection
-excerpt: 
+excerpt: "his study uses a deep learning method with several architectures such as CNN, Bidirectional LSTM, and ResNet, combined with pre-trained word embedding, trained using four different datasets."
 date: 2022-09-01
 venue: 'ICT Express vol. 8, no. 3'
 paperurl: 
