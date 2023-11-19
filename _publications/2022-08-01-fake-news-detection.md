@@ -4,12 +4,16 @@ collection: publications
 permalink: /publication/2022-09-01-fake-news-detection
 excerpt: 
 date: 2022-09-01
-venue: 'ICT Express vol. 8, no. 3, 2022'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S2405959521001375'
-citation: 'Sastrawan, I. Kadek, I. P. A. Bayupati, and Dewa Made Sri Arsa. Detection of fake news using deep learning CNN–RNN based methods. ICT Express 8.3 (2022): 396-408.'
+venue: 'ICT Express vol. 8, no. 3'
+paperurl: 
+citation: 
 ---
 
-We examine deep learning method for detecting fake news in various datasets.
+> ## Authors
+> [I Kadek Sastrawan](), [I Putu Agung Bayupati](https://udayananetworking.unud.ac.id/lecturer/credential/3160--i-putu-agung-bayupati), [Dewa Made Sri Arsa](https://dewamsa.github.io)
+
+> ## Abstract
+> Fake news is inaccurate information that is intentionally disseminated for a specific purpose. If allowed to spread, fake news can harm the political and social spheres, so several studies are conducted to detect fake news. This study uses a deep learning method with several architectures such as CNN, Bidirectional LSTM, and ResNet, combined with pre-trained word embedding, trained using four different datasets. Each data goes through a data augmentation process using the back-translation method to reduce data imbalances between classes. The results showed that the Bidirectional LSTM architecture outperformed CNN and ResNet on all tested datasets.
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S2405959521001375)
 
