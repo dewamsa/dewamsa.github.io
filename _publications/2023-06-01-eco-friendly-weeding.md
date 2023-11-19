@@ -13,10 +13,15 @@ citation:
 > [Dewa Made Sri Arsa<sup>a,b,1</sup>](https://dewamsa.github.io), [Talha Ilyas<sup>a,c,1</sup>](https://mr-talhailyas.github.io//), [Seok-Hwan Park<sup>d</sup>](https://sites.google.com/site/commsiglab/professor), [Okjae Won<sup>e</sup>](), [Hyongsuk Kim<sup>c</sup>](https://wz3.jbnu.ac.kr/jbnuProfl/eeieng/295/2522/artclView.do)
 >
 > <sup>a</sup>Division of Electronics and Information Engineering, Jeonbuk National University, Republic of Korea
+>
 > <sup>b</sup>Department of Information Technology, Universitas Udayana, Indonesia
-><sup>c</sup>Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea
+>
+> <sup>c</sup>Core Research Institute of Intelligent Robots, Jeonbuk National University, Republic of Korea
+>
 > <sup>d</sup>Division of Electronic Engineering, Jeonbuk National University, Republic of Korea
+>
 > <sup>e</sup>Production Technology Research Division, Rural Development Administration, National Institute of Crop Science, Republic of Korea
+>
 > <sup>*</sup>Corresponding author: hskim@jbnu.ac.kr
 
 
@@ -27,7 +32,7 @@ citation:
 [Code](https://github.com/dewamsa/WGPdetection)
 
 ## Citation:
-``
+```
 @article{ARSA2023107830,
 title = {Eco-friendly weeding through precise detection of growing points via efficient multi-branch convolutional neural networks},
 journal = {Computers and Electronics in Agriculture},
@@ -39,4 +44,4 @@ doi = {https://doi.org/10.1016/j.compag.2023.107830},
 url = {https://www.sciencedirect.com/science/article/pii/S0168169923002181},
 author = {Dewa Made Sri Arsa and Talha Ilyas and Seok-Hwan Park and Okjae Won and Hyongsuk Kim},
 }
-``
+```
