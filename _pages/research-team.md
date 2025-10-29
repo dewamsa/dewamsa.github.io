@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Research Team"
 permalink: /research-team/
 ---
